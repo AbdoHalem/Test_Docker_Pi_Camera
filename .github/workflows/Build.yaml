@@ -1,4 +1,4 @@
-name: Docker Image CI for Sign Feature
+name: Docker Image CI for testing V1.3 picamera in docker on RPI 4
 
 on:
   workflow_dispatch:
